@@ -1,0 +1,4 @@
+// <------ Emptying array ------->
+
+let nums = []
+

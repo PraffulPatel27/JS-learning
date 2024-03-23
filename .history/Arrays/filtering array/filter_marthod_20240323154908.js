@@ -1,0 +1,3 @@
+// <-------- filter method -------->
+
+let nums = 
