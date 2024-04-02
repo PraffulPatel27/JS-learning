@@ -1,0 +1,9 @@
+// <-------- Avoid to many event -------->
+
+let myDiv = document.createElement ('div');
+
+for (let i=1; i<=100; i++) {
+    let newEle
+}
+
+

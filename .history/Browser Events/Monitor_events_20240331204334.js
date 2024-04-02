@@ -1,0 +1,3 @@
+// <------- Monitor events ---------->
+
+monitorEvents (document)

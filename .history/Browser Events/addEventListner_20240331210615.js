@@ -1,0 +1,5 @@
+// <--------- addEventListner ---------->
+
+Syntax :- 
+
+

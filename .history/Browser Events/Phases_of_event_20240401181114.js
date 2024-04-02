@@ -1,0 +1,3 @@
+// <------ Phases of event ------>
+
+  // - Capturing 
