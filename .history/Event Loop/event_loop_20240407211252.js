@@ -37,8 +37,6 @@
      }, 4000);
    
     function synching () {
-      console.log ('Synching now');
+      console.log ('')
     }
-    synching ();
 
-    console.log ('I am a console log');

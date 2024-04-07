@@ -1,15 +1,7 @@
 // <--------- Event Loop --------->
 
 // Synchrnous code:
-    // Occurs at the same time and process of execution is line by line.
-
-    // Example of synchronous code:
-      function sync () {
-        console.log ('first');
-      }
-      sync ();
-
-      console.log ('second');
+      // Occurs 
 
 
 // <---------- Asynch code --------->
@@ -29,16 +21,3 @@
    // 2. The event loop continuously checks the call stack and the callback queue. If the call stack is empty, it takes the first function from the callback queue and pushes it onto the call stack for execution.
    // 3. The event loop continues this process, ensuring that the call stack is always empty before taking the next function from the callback queue.
 
-
-
-  // Example of async code:
-    setTimeout (function () {
-      console.log ('I am a setTimeout function');
-     }, 4000);
-   
-    function synching () {
-      console.log ('Synching now');
-    }
-    synching ();
-
-    console.log ('I am a console log');

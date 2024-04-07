@@ -32,13 +32,6 @@
 
 
   // Example of async code:
-    setTimeout (function () {
-      console.log ('I am a setTimeout function');
-     }, 4000);
-   
-    function synching () {
-      console.log ('Synching now');
-    }
-    synching ();
 
-    console.log ('I am a console log');
+
+
