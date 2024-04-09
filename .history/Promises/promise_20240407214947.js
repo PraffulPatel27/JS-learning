@@ -1,0 +1,3 @@
+// <----------- Prpmises in JavaScript ------------>
+
+
